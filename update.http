@@ -1,0 +1,8 @@
+PATCH  http://localhost:3333/updateuser/
+Content-Type: application/json
+
+{
+    "id": 1,
+    "age": 88
+
+}

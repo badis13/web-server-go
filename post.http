@@ -1,0 +1,9 @@
+POST  http://localhost:3333/adduser/
+Content-Type: application/json
+
+{
+    "id": 4,
+    "name": "Morty",
+    "age": 49
+
+}

@@ -1,0 +1,8 @@
+GET http://localhost:3333/getuserid/
+Content-Type: application/json
+
+{
+  "Id": 3
+  
+}
+  

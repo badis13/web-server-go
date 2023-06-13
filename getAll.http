@@ -1,0 +1,7 @@
+GET http://localhost:3333/
+Content-Type: application/json
+
+{
+  "limit": 10,
+  "offset": 0
+}
